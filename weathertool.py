@@ -1,5 +1,4 @@
 import requests
-import weather.com as api
 from statistics import mean, median, mode
 
 def get_weather_data(city):
